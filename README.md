@@ -1,7 +1,7 @@
 # test
 piesek
 kotek
-lin
+krowa
 pingwinek
 lisek chytrusek
 myszka
